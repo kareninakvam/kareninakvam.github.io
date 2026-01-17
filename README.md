@@ -1,9 +1,5 @@
 # kareninakvam.github.io
 
-#Portfolio de Karen Kvam
+## 🎀 About Me
 
-Desenvolvedora Backend PHP
-
-Utilizo os frameworks Laravel e CodeIgniter 
-
-![Computador](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BTsIVy2qn67xYhwuol-HKgf3zp7-HMReVQ&usqp=CAU)
+I thrive on translating complex ideas into seamless, functional software. With expertise in **Full Stack development**, I am committed to writing **clean and efficient code** that solves practical problems while building impactful digital journeys.
